@@ -13,15 +13,21 @@ The dataset used for this analysis is sourced from Kaggle. You can find the data
 # Python Libraries Used
 
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 # Project Details
 
 Data Cleaning: The initial step involves cleaning up the dataset to prepare it for analysis. This includes handling missing values, removing duplicates, and ensuring data consistency.
+
 Data Analysis: The focus of the analysis is on Swiggy food order, rating, prices and popularity. Various aspects of the data are explored, including popularity of restaurant, Food items, Rating and Delivery time
+
 Visualization: The insights derived from the data analysis are visually represented using Seaborn and other visualization libraries. This includes creating plots, charts, and graphs to effectively communicate the findings.
+
 Conclusion: The project concludes with a summary of key insights and observations obtained from the EDA process.
 
 # Usage
