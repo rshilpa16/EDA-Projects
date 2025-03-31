@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Project-EDA
 
-This repository contains my Exploratory Data Analysis (EDA) project using Python Pandas, Numpy, Matplotlib and Seaborn. The project focuses on analyzing Swiggy food Price, Rating, Delivery time and many more things in form of variable from Kaggle dataset, utilizing Jupyter Notebook for coding.
+This repository contains Exploratory Data Analysis (EDA) project using Python Pandas, Numpy, Matplotlib and Seaborn. The project focuses on analyzing Swiggy food Price, Rating, Delivery time and many more things in form of variable from Kaggle dataset, utilizing Jupyter Notebook for coding.
 
 # Overview
 
